@@ -63,6 +63,7 @@ Here are some zip codes to test!
 - 46923 (Delphi, IN)
 - 94123 (San Francisco, CA)
 
+### Submit a link to your repo and a link to your deployed work on github pages
 # Assignment due Wednesday(4/19) at 11:00PM
 
 
