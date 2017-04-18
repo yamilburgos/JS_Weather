@@ -9,6 +9,9 @@
 You all learned a whole lot today! good work! you're not expected to have all this suff memorized.
 if you want to refresh yourselves on the jQuery AJAX syntax go to the [documentation](http://api.jquery.com/jquery.ajax/)
 
+## Event Loop
+Understanding the event loop is really key to undertstanding javascript. It's deeper than we've gone so far but this is an amazing video that explains it really clearly.
+[event loop video](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
 ## Postman
 [Postman](https://www.getpostman.com/) is a tool that allows you to access api's within a nice GUI. 
