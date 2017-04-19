@@ -1,0 +1,51 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    justify-content: center;
+    font-family: 'Asar', serif;
+}
+
+body {
+    border-style: solid;
+    background-color: aliceblue;
+}
+
+h1 {
+    font-size: 50px;
+    font-style: italic;
+    margin-top: 3%;
+    text-align: center;
+}
+
+#button, #textValue { 
+    width: 25%;
+    height: 15%;
+
+    border-radius: 10px;
+    display: block;
+    text-align: center;
+}
+
+#textValue {   
+    font-size: 20px;
+    margin-top: 2%;
+}
+
+#button {
+    font-size: 25px;
+    margin-top: 0%;
+
+    padding: 10px 0px;
+    background-color: whitesmoke;
+    box-shadow: 4px 4px #999;
+}
+
+span {
+    margin: 35%;
+}
+
+div {
+    width: 600px;
+    font-size: 18px;
+    line-height: 30px;
+}
